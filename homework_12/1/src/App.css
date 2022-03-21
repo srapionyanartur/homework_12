@@ -1,0 +1,35 @@
+.container {
+  
+margin-top: 15em;
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 15px;
+    
+    
+}
+
+.text {
+    width: 300px;
+    height: 25px;
+    
+}
+
+.checkbox {
+    font-weight: 2px;
+    font-size: 25px;
+}
+
+.sbm {
+    width: 200px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+
+.sbm:hover {
+   background-color: rgb(105, 105, 105);
+    
+}
